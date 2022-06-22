@@ -19,7 +19,7 @@ Before  training  CGCN,  we have to provide the attributes of the CDN nodes. Thu
 
 *1) Traditional  Static  Code  Metric:* 20 manually designed metrics (Process-Binary.csv).
 
-2) Network  Embedding  Metric:* use the [ProNE](https://github.com/THUDM/ProNE) implementation to generate the network embedding file.
+*2) Network  Embedding  Metric:* use the [ProNE](https://github.com/THUDM/ProNE) implementation to generate the network embedding file.
 
 ### Generating the CGCN embeddings
 
