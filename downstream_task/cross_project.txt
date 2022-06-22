@@ -1,0 +1,7 @@
+camel-1.2,jedit-3.2,lucene-2.0,poi-1.5,velocity-1.4,xalan-2.4,ant-1.4
+ant-1.4,jedit-3.2,lucene-2.0,poi-1.5,velocity-1.4,xalan-2.4,camel-1.2
+ant-1.4,camel-1.2,lucene-2.0,poi-1.5,velocity-1.4,xalan-2.4,jedit-3.2
+ant-1.4,camel-1.2,jedit-3.2,poi-1.5,velocity-1.4,xalan-2.4,lucene-2.0
+ant-1.4,camel-1.2,jedit-3.2,lucene-2.0,velocity-1.4,xalan-2.4,poi-1.5
+ant-1.4,camel-1.2,jedit-3.2,lucene-2.0,poi-1.5,xalan-2.4,velocity-1.4
+ant-1.4,camel-1.2,jedit-3.2,lucene-2.0,poi-1.5,velocity-1.4,xalan-2.4
