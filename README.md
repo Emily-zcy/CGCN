@@ -1,4 +1,28 @@
-# Software Defect prediction with Semantic and Structural Features of Codes Based on Graph Neural Network
+# Software defect prediction with semantic and structural information of codes based on Graph Neural Networks
+
+Supplementary code and data of the paper *Software defect prediction with semantic and structural information of codes based on Graph Neural Networks*.
+
+@article{zhou2022software,
+  title={Software defect prediction with semantic and structural information of codes based on Graph Neural Networks},
+  author={Zhou, Chunying and He, Peng and Zeng, Cheng and Ma, Ju},
+  journal={Information and Software Technology},
+  volume={152},
+  pages={107057},
+  year={2022},
+  publisher={Elsevier}
+}
+
+This work is the extension of *GCN2defect: Graph Convolutional Networks for SMOTETomek-based Software Defect Prediction*
+
+@INPROCEEDINGS{9700305, 
+author={Zeng, Cheng and Zhou, Chun Ying and Lv, Sheng Kai and He, Peng and Huang, Jie}, 
+booktitle={2021 IEEE 32nd International Symposium on Software Reliability Engineering (ISSRE)}, title={GCN2defect : Graph Convolutional Networks for SMOTETomek-based Software Defect Prediction}, 
+year={2021}, 
+volume={}, 
+number={}, 
+pages={69-79}, 
+doi={10.1109/ISSRE52982.2021.00020}}
+
 ### Generating Class Dependency Network
 
 ---
