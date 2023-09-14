@@ -12,7 +12,7 @@ Supplementary code and data of the paper *Software defect prediction with semant
   publisher={Elsevier}
 }
 
-This work is the extension of *GCN2defect: Graph Convolutional Networks for SMOTETomek-based Software Defect Prediction*
+This work is the extension of *GCN2defect: Graph Convolutional Networks for SMOTETomek-based Software Defect Prediction*.
 
 @INPROCEEDINGS{9700305, 
 author={Zeng, Cheng and Zhou, Chun Ying and Lv, Sheng Kai and He, Peng and Huang, Jie}, 
